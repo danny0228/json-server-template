@@ -1,444 +1,256 @@
 {
-  "example": [
+  "fcBarcelonaPlayers": [
     {
-      "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "1",
+      "name": "Marc-Andre ter Stegen",
+      "position": "goalkeeper",
+      "number": "1",
+      "country": "Germany",
+      "birth": "04/29/1992",
+      "height": "1.87M",
+      "weight": "85KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p77318/512x512/p77318_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "2",
+      "name": "Iñaki Peña",
+      "position": "goalkeeper",
+      "number": "13",
+      "country": "Spain",
+      "birth": "03/01/1999",
+      "height": "1.84M",
+      "weight": "78KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p210341/512x512/p210341_t178_2023_0_003_000.png",
+      "likes": 0
     },
     {
-      "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "3",
+      "name": "Joao Cancelo",
+      "position": "defender",
+      "number": "2",
+      "country": "Portugal",
+      "birth": "05/26/1994",
+      "height": "1.82M",
+      "weight": "74KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p121145/512x512/p121145_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "4",
+      "name": "Alejandro Balde",
+      "position": "defender",
+      "number": "3",
+      "country": "Spain",
+      "birth": "10/17/2003",
+      "height": "1.75M",
+      "weight": "69KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p493019/512x512/p493019_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "5",
+      "name": "Ronald Araujo",
+      "position": "defender",
+      "number": "4",
+      "country": "Uruguay",
+      "birth": "03/06/1999",
+      "height": "1.88M",
+      "weight": "79KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p445087/512x512/p445087_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "6",
+      "name": "Iñigo Martinez",
+      "position": "defender",
+      "number": "5",
+      "country": "Spain",
+      "birth": "05/16/1991",
+      "height": "1.82M",
+      "weight": "76KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p90318/512x512/p90318_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "7",
+      "name": "Andreas Christensen",
+      "position": "defender",
+      "number": "15",
+      "country": "Denmark",
+      "birth": "04/09/1996",
+      "height": "1.87M",
+      "weight": "82KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p135363/512x512/p135363_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "8",
+      "name": "Marcos Alonso",
+      "position": "defender",
+      "number": "17",
+      "country": "Spain",
+      "birth": "12/27/1990",
+      "height": "1.88M",
+      "weight": "84KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p82263/512x512/p82263_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "9",
+      "name": "Jules Kounde",
+      "position": "defender",
+      "number": "23",
+      "country": "France",
+      "birth": "11/11/1998",
+      "height": "1.80M",
+      "weight": "75KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p220325/512x512/p220325_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "10",
+      "name": "Sergi Roberto",
+      "position": "defender",
+      "number": "20",
+      "country": "Spain",
+      "birth": "02/06/1992",
+      "height": "1.78M",
+      "weight": "68KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p86157/512x512/p86157_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "11",
+      "name": "Gavi",
+      "position": "midfielder",
+      "number": "6",
+      "country": "Spain",
+      "birth": "08/04/2004",
+      "height": "1.73M",
+      "weight": "70KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p500046/512x512/p500046_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "12",
+      "name": "Ferran Torres",
+      "position": "midfielder",
+      "number": "7",
+      "country": "Spain",
+      "birth": "02/28/2000",
+      "height": "1.84M",
+      "weight": "77KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p224444/512x512/p224444_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "13",
+      "name": "Pedri",
+      "position": "midfielder",
+      "number": "8",
+      "country": "Spain",
+      "birth": "11/24/2002",
+      "height": "1.74M",
+      "weight": "60KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p490541/512x512/p490541_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "14",
+      "name": "Oriol Romeu",
+      "position": "midfielder",
+      "number": "18",
+      "country": "Spain",
+      "birth": "09/23/1991",
+      "height": "1.83M",
+      "weight": "83KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p78056/512x512/p78056_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "15",
+      "name": "Frenkie De Jong",
+      "position": "midfielder",
+      "number": "21",
+      "country": "Netherlands",
+      "birth": "05/11/1997",
+      "height": "1.81M",
+      "weight": "74KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p209712/512x512/p209712_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "16",
+      "name": "Ilkay Gundogan",
+      "position": "midfielder",
+      "number": "22",
+      "country": "Germany",
+      "birth": "10/23/1990",
+      "height": "1.80M",
+      "weight": "80KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p59859/512x512/p59859_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "17",
+      "name": "Fermin Lopez",
+      "position": "midfielder",
+      "number": "32",
+      "country": "Spain",
+      "birth": "05/10/2003",
+      "height": "1.74M",
+      "weight": "N/A",
+      "image": "https://assets.laliga.com/squad/2023/t178/p551086/512x512/p551086_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "18",
+      "name": "Robert Lewandoski",
+      "position": "forward",
+      "number": "9",
+      "country": "Poland",
+      "birth": "08/20/1988",
+      "height": "1.85M",
+      "weight": "81KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p56764/512x512/p56764_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "19",
+      "name": "Raphina",
+      "position": "forward",
+      "number": "11",
+      "country": "Brazil",
+      "birth": "12/13/1996",
+      "height": "1.76M",
+      "weight": "68KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p219961/512x512/p219961_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "20",
+      "name": "Joao Felix",
+      "position": "forward",
+      "number": "14",
+      "country": "Portugal",
+      "birth": "11/09/1999",
+      "height": "1.81M",
+      "weight": "70KG",
+      "image": "https://assets.laliga.com/squad/2023/t178/p428399/512x512/p428399_t178_2023_1_003_000.png",
+      "likes": 0
     },
     {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "21",
+      "name": "Lamine Yamal",
+      "position": "forward",
+      "number": "27",
+      "country": "Spain",
+      "birth": "07/12/2007",
+      "height": "1.80M",
+      "weight": "N/A",
+      "image": "https://assets.laliga.com/squad/2023/t178/p593109/512x512/p593109_t178_2023_1_003_000.png",
+      "likes": 0
     }
   ]
 }
